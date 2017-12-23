@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.amdocs.appConfiguration.LoadConfigurationPropertiesConfiguration",
+      "name": "app",
+      "type": "com.amdocs.appConfiguration.LoadConfigurationPropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.amdocs.appConfiguration.LoadConfigurationPropertiesConfiguration",
+      "name": "app.menus",
+      "type": "java.util.List<com.amdocs.models.Menu>"
+    }
+  ]
+}

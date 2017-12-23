@@ -1,0 +1,13 @@
+name:
+  amit
+age:
+  23
+
+app:
+  menus:
+    - title: Home
+      id: Home
+      description: dfs
+    - title: Login
+      id: Login
+      description: /login
