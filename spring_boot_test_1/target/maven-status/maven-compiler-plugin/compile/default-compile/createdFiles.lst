@@ -1,0 +1,7 @@
+com\amdocs\appService\SomeOtherInterfaceImplAmit.class
+com\amdocs\appService\SomeInterface.class
+com\amdocs\appController\AppController.class
+com\amdocs\appConfiguration\AppConfiguration.class
+com\amdocs\SpringBootTest1Application.class
+com\amdocs\appService\SomeInterfaceImplAmit.class
+com\amdocs\appService\SomeOtherInterface.class
